@@ -6,6 +6,11 @@ This library enables you to integrate CambioReal with any PHP application.
 * cURL
 
 ## Usage
+### Install
+```bash
+composer require cambioreal/cambioreal
+```
+
 ### Setup
 To use the CambioReal PHP library you need to setup your app id and app secret.
 ``` php
